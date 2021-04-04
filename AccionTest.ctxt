@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AccionTest
+comment1.params=
+comment1.target=AccionTest()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ AccionTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Instrucciones\ que\ se\ ejecutar\u00E1n\ antes\ de\ cada\ prueba\ unitaria\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Instrucciones\ que\ se\ ejecutan\ despu\u00E9s\ de\ cada\ prueba\ unitaria\r\n
+comment4.params=
+comment4.target=void\ deberiaCalcularElNumeroDeDiasDeUnaAccion()
+comment4.text=\r\n\ Deberia\ calcular\ el\ total\ de\ d\u00EDas\ que\ tomar\u00E1\ completar\ una\ acci\u00F3n\r\n\ @result\ Se\ contar\u00E1n\ los\ d\u00EDas\ necesarios\ para\ completar\ una\ acci\u00F3n\r\n
+comment5.params=
+comment5.target=void\ deberiaLanzarExcepcionSiUnaAccionCompuestaNoTieneAccionesSimples()
+comment5.text=\r\n\ Deberia\ lanzar\ una\ excepci\u00F3n\ si\ una\ acci\u00F3n\ compuesta\ no\ tiene\ acciones\ simples.\r\n\ @result\ Se\ lanzar\u00E1\ una\ excepci\u00F3n\ en\ caso\ de\ tener\ una\ acci\u00F3n\ compuesta\ sin\ acciones\ simples\r\n
+comment6.params=
+comment6.target=void\ deberiaLanzarExcepcionSiNoSeConocenLosDiasDeUnaAccionSimple()
+comment6.text=\r\n\ Deberia\ lanzar\ una\ excepci\u00F3n\ si\ una\ acci\u00F3n\ simple\ no\ tiene\ d\u00EDas\ asociados.\r\n\ @result\ No\ se\ tendr\u00E1n\ acciones\ simples\ sin\ d\u00EDas\ asociados.\r\n
+comment7.params=
+comment7.target=void\ deberiaContarLosDiasEstimados()
+comment7.text=\r\n\ Deberia\ contar\ los\ d\u00EDas\ estimados\r\n\ @result\ El\ total\ de\ d\u00EDas\ estimados\ de\ una\ tarea\ compuesta\r\n
+comment8.params=
+comment8.target=void\ deberiaContarLosDiasDeUnaTareaDada()
+comment8.text=\r\n\ Deber\u00EDa\ retornar\ los\ d\u00EDas\ que\ tomar\u00E1\ realizar\ una\ tarea\ con\ un\ nombre\ espec\u00EDfico\r\n\ @result\ El\ total\ de\ d\u00EDas\ necesarios\ para\ completar\ una\ tarea\ en\ especifico\ \r\n
+numComments=9

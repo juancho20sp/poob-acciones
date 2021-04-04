@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=AccionSimple
+comment1.params=nombre\ dias
+comment1.target=AccionSimple(java.lang.String,\ java.lang.Integer)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ AccionSimple\r\n
+comment2.params=
+comment2.target=int\ dias()
+comment2.text=\r\n\ Retorna\ el\ total\ de\ d\u00EDas\ estimados\ para\ esta\ tarea\r\n\ @return\ Total\ de\ d\u00EDas\ estimados\ para\ la\ tarea\r\n\ @throws\ AccionExcepcion\ si\ la\ acci\u00F3n\ no\ tiene\ d\u00EDas\ asociados\r\n
+comment3.params=
+comment3.target=int\ diasEstimados()
+comment3.text=\r\n\ Retorna\ el\ total\ de\ d\u00EDas\ estimados\ de\ una\ tarea\r\n\ @return\ Si\ el\ total\ de\ d\u00EDas\ no\ es\ nulo,\ lo\ retorna.\ En\ caso\ de\ ser\ nulo\ retorna\ 5.\r\n
+comment4.params=nombre
+comment4.target=int\ dias(java.lang.String)
+numComments=5

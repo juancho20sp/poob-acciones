@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Accion
+comment1.params=nombre
+comment1.target=Accion(java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ abstracta\ Accion\r\n
+comment2.params=
+comment2.target=int\ dias()
+comment2.text=\r\n\ M\u00E9todo\ encargado\ de\ calcular\ el\ total\ de\ d\u00EDas\ de\ una\ acci\u00F3n\r\n\ @return\ El\ total\ de\ d\u00EDas\ que\ tomar\u00E1\ realizar\ una\ acci\u00F3n\r\n\ @throws\ AccionExcepcion\ si\ se\ encuentra\ alguna\ inconsistencia\ en\ los\ datos\ de\ la\ acci\u00F3n\r\n
+comment3.params=
+comment3.target=int\ diasEstimados()
+comment3.text=Calcular\ el\ numero\ de\ dias\ estimados\ de\ una\ accion\r\n\ Si\ hay\ problemas\ para\ calcular\ el\ numero\ de\ dias\ de\ una\ accion,\ se\ asume\ el\ maximo\ numero\ de\ dias\ de\r\n\ sus\ subacciones,\ si\ es\ posible,\ o\ una\ semana\ (5\ dias),\ en\ caso\ contrario.\r\n\ @return\ El\ total\ de\ d\u00EDas\ estimados\ para\ una\ acci\u00F3n\r\n
+comment4.params=nombre
+comment4.target=int\ dias(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+numComments=6

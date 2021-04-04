@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AccionExcepcion
+comment1.params=mensaje
+comment1.target=AccionExcepcion(java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ AccionExcepcion\r\n
+numComments=2

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=AccionCompuesta
+comment1.params=nombre
+comment1.target=AccionCompuesta(java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ AccionCompuesta\r\n
+comment2.params=a
+comment2.target=void\ adAccion(Accion)
+comment2.text=\r\n\ M\u00E9todo\ encargado\ de\ agregar\ una\ nueva\ acci\u00F3n\ a\ la\ acci\u00F3n\ actual\r\n\ @param\ La\ acci\u00F3n\ a\ agregar\r\n
+comment3.params=
+comment3.target=int\ dias()
+comment3.text=\r\n\ Este\ m\u00E9todo\ se\ encarga\ de\ calcular\ el\ total\ de\ d\u00EDas\ que\ tomar\u00E1\ finalizar\ una\ tarea\r\n\ @return\ El\ total\ de\ d\u00EDas\ de\ la\ tarea.\r\n\ @throws\ AccionExcepcion\ si\ la\ acci\u00F3n\ est\u00E1\ vac\u00EDa\r\n
+comment4.params=
+comment4.target=int\ diasEstimados()
+comment4.text=\r\n\ M\u00E9todo\ encargado\ de\ calcular\ los\ dias\ estimados\ de\ una\ acci\u00F3n\r\n\ @return\ El\ total\ de\ d\u00EDas\ estimados\ para\ una\ acci\u00F3n\r\n
+comment5.params=nombre
+comment5.target=int\ dias(java.lang.String)
+comment5.text=\r\n\ M\u00E9todo\ encargado\ de\ calcular\ los\ d\u00EDas\ de\ estimados\ de\ una\ acci\u00F3n\ con\ nombre\ dado\r\n\ @return\ El\ total\ de\ d\u00EDas\ estimaos\ para\ una\ acci\u00F3n\ con\ un\ nombre\ dado\r\n
+numComments=6
